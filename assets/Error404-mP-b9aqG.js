@@ -1,0 +1,1 @@
+import{k as c,o as t,a,aS as _,aT as d,x as o}from"./index-z1hJ5Cph.js";const r={},s=e=>(_("data-v-37d7c7f2"),e=e(),d(),e),n={class:"wrapper"},p=s(()=>o("h1",null,"404",-1)),h=s(()=>o("p",null,"找不到你要的頁面",-1)),i=s(()=>o("a",{href:"/"},"回首頁",-1)),f=[p,h,i];function l(e,u){return t(),a("div",n,f)}const x=c(r,[["render",l],["__scopeId","data-v-37d7c7f2"]]);export{x as default};
