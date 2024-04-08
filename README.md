@@ -1,6 +1,6 @@
 # order_system 點餐系統+後台管理功能
 
-使用 [Vue](https://cn.vuejs.org/) +[ElementUI](https://element-plus.org/en-US/)結合完成的點餐系統+後台管理.
+使用 [Vue](https://cn.vuejs.org/) +[Element Plus](https://element-plus.org/en-US/)結合完成的點餐系統+後台管理.
 
 ## 客製化
 - 可透過更改Logo或者修改 `.env` 名稱進行客製化
